@@ -1,10 +1,11 @@
-* getopt
-
-getopt for clojure
+# getopt
 
 [![Build Status](https://travis-ci.org/wiseman/clj-getopt.png?branch=master)](https://travis-ci.org/wiseman/clj-getopt)
 
-** Installation
+getopt for clojure.
+
+
+## Installation
 
 ```
 [com.lemonodor.getopt "0.1.0"]
