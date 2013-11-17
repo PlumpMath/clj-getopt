@@ -4,6 +4,8 @@
 
 getopt for clojure.
 
+[![Version](https://clojars.org/com.lemonodor/getopt/latest-version.svg)](https://clojars.org/com.lemonodor/getopt)
+
 
 ## Installation
 
