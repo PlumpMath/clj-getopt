@@ -1,11 +1,8 @@
 # getopt
 
-[![Build Status](https://travis-ci.org/wiseman/clj-getopt.png?branch=master)](https://travis-ci.org/wiseman/clj-getopt)
+[![Build Status](https://travis-ci.org/wiseman/clj-getopt.png?branch=master)](https://travis-ci.org/wiseman/clj-getopt) [![Coverage Status](https://coveralls.io/repos/wiseman/clj-getopt/badge.png?branch=master)](https://coveralls.io/r/wiseman/clj-getopt?branch=master)
 
 getopt for clojure.
-
-[![Version](https://clojars.org/com.lemonodor/getopt/latest-version.svg)](https://clojars.org/com.lemonodor/getopt)
-
 
 ## Installation
 
