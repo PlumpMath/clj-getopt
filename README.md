@@ -4,8 +4,16 @@
 
 getopt for clojure.
 
-## Installation
-
 ```
 [com.lemonodor.getopt "0.1.0"]
+```
+
+## Installation
+
+## Contributing
+
+To test:
+
+```
+$ lein test
 ```

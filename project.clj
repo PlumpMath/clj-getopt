@@ -5,5 +5,6 @@
             :url "http://www.opensource.org/licenses/mit-license.php"}
   :scm {:name "git"
         :url "https://github.com/wiseman/clj-getopt"}
+  :deploy-repositories {"releases" :clojars}
   :dependencies [[org.clojure/clojure "1.5.1"]]
   :profiles {:dev {:plugins [[lein-cloverage "1.0.2"]]}})
